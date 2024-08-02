@@ -4,7 +4,7 @@
 
 This repository contains a Python-based implementation of an Expected Goals (xG) model for hockey. The model predicts the likelihood of a goal occurring based on various shot features and game conditions. Using logistic regression, it evaluates shot events and compares predicted xG with actual outcomes. This tool provides insights into player and team performance by analyzing shot effectiveness in hockey.
 
-Here is how the model compares to highly regarded public models MoneyPuck and Natural Stat Trick:
+Here is how the model compares to highly regarded public models MoneyPuck and Natural Stat Trick for the 2023-24 season:
 
 <img width="309" alt="Screenshot 2024-08-01 at 9 49 03 PM" src="https://github.com/user-attachments/assets/c15b90e7-bd39-4eff-88ac-25b8ee698f16">
 <img width="307" alt="Screenshot 2024-08-01 at 9 51 52 PM" src="https://github.com/user-attachments/assets/02671eee-dca8-44f9-82c4-e773b600eae9">
