@@ -1,11 +1,11 @@
 # NHL-xG-Model
-Overview
+## Overview
 
 This repository provides a Python-based implementation of an Expected Goals (xG) model for hockey. The model predicts the likelihood of a goal occurring based on various shot features and game conditions. It utilizes logistic regression to evaluate shot events and compare predicted xG with actual outcomes. The model is designed to be a robust tool for analyzing and understanding shot effectiveness in hockey.
 
-How It Works
+## How it Works
 
-Data Loading and Preparation
+## Data Loading and Preparation
 
 	1.	Loading Data:
 	•	The data for the 2021, 2022, and 2023 seasons are loaded from CSV files. The data includes various features such as shot type, shot distance, angle, and team strengths.
@@ -21,7 +21,7 @@ Data Loading and Preparation
 	•	Categorical and boolean columns are converted to dummy variables.
 	•	Missing values are handled, and all necessary features are prepared for modeling.
 
-Model Training and Evaluation
+## Model Training and Evaluation
 
 	1.	Feature Selection:
 	•	A set of relevant features is selected for training the logistic regression model, including shot characteristics and team strengths.
@@ -42,7 +42,7 @@ Model Training and Evaluation
 	•	Moneypuck Model: R² value of 0.93
 	•	Natural Stat Trick Model: R² value of 0.94
 
-Visualization
+## Visualization
 
 	1.	ROC Curve:
 	•	The ROC curve is plotted to visualize the model’s performance across different classification thresholds.
