@@ -4,7 +4,7 @@
 
 This repository contains a Python-based implementation of an Expected Goals (xG) model for hockey. The model predicts the likelihood of a goal occurring based on various shot features and game conditions. Using logistic regression, it evaluates shot events and compares predicted xG with actual outcomes. This tool provides insights into player and team performance by analyzing shot effectiveness in hockey.
 
-## How it works
+## How It Works
 
 ## Data Loading and Preparation
 
