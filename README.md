@@ -38,9 +38,16 @@ This repository contains a Python-based implementation of an Expected Goals (xG)
 		• Moneypuck Model: R² value of 0.93
 		• Natural Stat Trick Model: R² value of 0.94
 
+<img width="906" alt="Screenshot 2024-08-01 at 8 48 39 PM" src="https://github.com/user-attachments/assets/f48bb1a9-2c2e-4464-82fa-a602df2cb759">
+<img width="143" alt="Screenshot 2024-08-01 at 8 49 09 PM" src="https://github.com/user-attachments/assets/a9cdebbe-6c73-48f1-b66b-1b53905b50ac">
+
 ## Visualization
 
 	1. ROC Curve:
 		• The ROC curve is plotted to visualize the model’s performance across different classification thresholds. This helps in understanding how well the model discriminates between the classes.
 	2. Scatter Plots:
 		• Scatter plots of predicted xG vs. various expected ixG metrics (e.g., ixG NSS, ixG MP) are generated with a line of best fit to analyze the relationship between predicted and expected metrics.
+
+<img width="929" alt="Screenshot 2024-08-01 at 8 48 22 PM" src="https://github.com/user-attachments/assets/f0331596-2200-48b1-ade4-6778d1732121">
+<img width="911" alt="Screenshot 2024-08-01 at 8 48 31 PM" src="https://github.com/user-attachments/assets/d51a920b-24a5-4cc0-8e96-485b4928b581">
+
