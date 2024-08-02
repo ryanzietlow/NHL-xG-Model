@@ -39,9 +39,9 @@ Here is how the model compares to highly regarded public models MoneyPuck and Na
 		• A logistic regression model is trained with the standardized features. Hyperparameters such as max_iter and C are optimized for the model.
 	5. Evaluation:
 		• ROC AUC: The ROC AUC score for the model is 0.73, indicating the model’s ability to discriminate between goal and non-goal events. A higher ROC AUC value signifies better model performance in distinguishing between the two classes.
-		• R² Values: The model’s R² value is compared to other established models:
-		• Moneypuck Model: R² value of 0.93
-		• Natural Stat Trick Model: R² value of 0.94
+		• R² Values: The models data is compared to those of public models
+			• Moneypuck Model: R² value of 0.93
+			• Natural Stat Trick Model: R² value of 0.94
 
 <img width="906" alt="Screenshot 2024-08-01 at 8 48 39 PM" src="https://github.com/user-attachments/assets/f48bb1a9-2c2e-4464-82fa-a602df2cb759">
 <img width="143" alt="Screenshot 2024-08-01 at 8 49 09 PM" src="https://github.com/user-attachments/assets/a9cdebbe-6c73-48f1-b66b-1b53905b50ac">
